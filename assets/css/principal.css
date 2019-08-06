@@ -1,0 +1,61 @@
+#imgLogo {
+    height: 60px;
+    width: 100;
+}
+
+#imgBanner {
+    width: 100%;
+}
+
+.navbar-light {
+    color: #000000;
+    font-weight: bolder;
+}
+
+.seccionInformacion {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.titulo {
+    font-weight: bolder;
+    padding-bottom: 1.5rem;
+}
+
+.cartasTemas {
+    background: #f8f9fa;
+    border-radius: .5rem !important;
+    box-shadow: none !important;
+    padding: 2rem;
+    margin-left: 4.4rem;
+}
+
+.img-cards {
+    width: 7rem;
+}
+
+.descripcionCard {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: #c7c7c7;
+    margin-top: 4rem;
+}
+
+.imgIconosUno {
+    width: 2rem;
+    cursor: pointer;
+}
+
+.imgIconos {
+    width: 2rem;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.cantactos {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
