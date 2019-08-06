@@ -1,0 +1,1 @@
+//shadow-sm bg-white rounded

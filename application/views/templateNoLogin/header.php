@@ -9,6 +9,7 @@
     <link  href="<?= base_url('/assets/css/fuente.css')?>" rel="stylesheet">
     <link  href="<?= base_url('/assets/css/principal.css')?>" rel="stylesheet">
     <link  href="<?= base_url('/assets/css/login.css')?>" rel="stylesheet">
+    <link  href="<?= base_url('/assets/css/servicios.css')?>" rel="stylesheet">
     <title>Principal</title>
 </head>
 <body>
@@ -26,7 +27,7 @@
                 <a class="nav-link" href="#">Cursos</a>
             </li>
             <li class="nav-item listaMenu">
-                <a class="nav-link" href="#">Servicios</a>
+                <a class="nav-link" href="<?= base_url('servicios')?>">Servicios</a>
             </li>
             <li class="nav-item listaMenu">
                 <a class="nav-link" href="#">YouTube</a>

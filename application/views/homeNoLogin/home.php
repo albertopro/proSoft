@@ -1,6 +1,6 @@
 <section class="seccionInformacion">
     <div class="container">
-        <div class="row-fluid">
+        <div class="row">
             <div class="col-xs-12">
                 <h1 class="titulo">Titulo</h1>
                 <p>En proSoft nos preocupamos por la gente y sus necesidades, tales como problemas que tienen en la vida diaria,
