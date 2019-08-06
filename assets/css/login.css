@@ -1,5 +1,5 @@
 .contenedorLogin {
-    margin-top: 7rem;
+    margin-top: 3.5rem;
 }
 
 .formEspacios {
@@ -17,4 +17,10 @@
 
 .card-header {
     padding-top: 1.4rem;
+}
+
+#imgRegistro{
+    width: 10rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
