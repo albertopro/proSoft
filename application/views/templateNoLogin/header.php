@@ -24,7 +24,7 @@
     <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item listaMenu">
-                <a class="nav-link" href="#">Cursos</a>
+                <a class="nav-link" href="<?= base_url('cursos');?>">Cursos</a>
             </li>
             <li class="nav-item listaMenu">
                 <a class="nav-link" href="<?= base_url('servicios')?>">Servicios</a>

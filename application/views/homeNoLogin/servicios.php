@@ -40,3 +40,15 @@
         </div>
     </div>
 </section>
+<section class="seccionServicios informacionServicio">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4>Informacion soluciones</h4><br>
+                <h6>Para poder ver los detalles del servicio es necesario registrarse, y lo puedes hacer
+                facil y rapido en el siguiente link:</h6><br>
+                <a href="<?= base_url('registro');?>"><h6>Registrate aqui</h6></a>
+            </div>
+        </div>
+    </div>
+</section>
