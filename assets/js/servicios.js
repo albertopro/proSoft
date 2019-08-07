@@ -2,7 +2,13 @@
 /**
  * Hover para efecto de los servicios
  */
-$('.servicios').hover(function() {
-    $('.servicios').addClass('shadow-sm bg-white rounded');
-    $('.servicios').removeClass('shadow-sm bg-white rounded');
+$(document).ready(function() {
+    $('.servicios').hover(
+        function() {
+            $(this).addClass('shadow bg-white rounded');
+        },
+        function() {
+            $(this).removeClass('shadow bg-white rounded');
+        }
+    );
 });
