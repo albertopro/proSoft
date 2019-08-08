@@ -5,11 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link  href="<?= base_url('/assets/css/fuente.css')?>" rel="stylesheet">
     <link  href="<?= base_url('/assets/css/principal.css')?>" rel="stylesheet">
     <link  href="<?= base_url('/assets/css/login.css')?>" rel="stylesheet">
     <link  href="<?= base_url('/assets/css/servicios.css')?>" rel="stylesheet">
+    <link  href="<?= base_url('/assets/css/cursos.css')?>" rel="stylesheet">
     <title>Principal</title>
 </head>
 <body>
