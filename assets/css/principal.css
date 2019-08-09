@@ -59,3 +59,21 @@ footer {
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
+
+#contacto{
+    cursor: pointer;
+}
+
+.modal-title{
+    font-weight: bolder;
+    margin-bottom: 1rem;
+}
+
+.textoContactos{
+    color: #0a8ecd !important;
+    font-weight: bolder !important;
+}
+
+.modal-header {
+    border-bottom: 0px solid #dee2e6;
+}

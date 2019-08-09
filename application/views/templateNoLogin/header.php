@@ -38,7 +38,7 @@
                 <a class="nav-link" href="#">Blog</a>
             </li>
             <li class="nav-item listaMenu">
-                <a class="nav-link" href="#">Contactanos</a>
+                <a class="nav-link" id="contacto">Contactanos</a>
             </li>
         </ul>
         <ul class="navbar-nav mt-2 mt-lg-0">

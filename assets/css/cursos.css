@@ -4,6 +4,9 @@
 
 .temarioCursos{
     background: #f8f8f9;
+    margin-top: 5rem;
+    padding-bottom: 4rem;
+    display: none;
 }
 
 .tituloCursos{
@@ -19,3 +22,7 @@
 .material-icons.md-24 { font-size: 24px; }
 .material-icons.md-36 { font-size: 36px; }
 .material-icons.md-48 { font-size: 48px; }
+
+.servicios{
+    cursor: pointer;
+}
