@@ -29,14 +29,14 @@
                             <div class="card-body contactos">
                                 <img src="<?= base_url('assets/img/whatsapp.png'); ?>" alt="" class="img-fluid imagenServicios"><br>
                                 <small class="text-muted">WhatsApp</small><br>
-                                <a href=""><small class="text-muted textoContactos">Escribennos</small></a>                          
+                                <a href="https://api.whatsapp.com/send?phone=5614860827"><small class="text-muted textoContactos">Escribennos</small></a>                          
                             </div>            
                         </div>
                         <div class="col-md-4 ">
                             <div class="card-body contactos">
                                 <img src="<?= base_url('assets/img/facebook.png'); ?>" alt="" class="img-fluid imagenServicios"><br>
                                 <small class="text-muted">Facebook</small><br>
-                                <a href=""><small class="text-muted textoContactos">Contactanos</small></a>                                                  
+                                <a href="https://www.facebook.com/amvprosoft/"><small class="text-muted textoContactos">Contactanos</small></a>                                                  
                             </div>            
                         </div>
                     </div>

@@ -32,7 +32,7 @@
                 <a class="nav-link" href="<?= base_url('servicios')?>">Servicios</a>
             </li>
             <li class="nav-item listaMenu">
-                <a class="nav-link" href="#">Nlog</a>
+                <a class="nav-link" href="#">Blog</a>
             </li>
             <li class="nav-item listaMenu">
                 <a class="nav-link" id="youTube">YouTube</a>
