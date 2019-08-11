@@ -13,5 +13,13 @@ $(document).ready(function() {
     function modalContactos(){
         $('#modalContactos').modal('show')
     }
+
+    $('#youTube').click(function(){
+        modalYouTube();
+    });
+
+    function modalYouTube(){
+        $('#modalYouTube').modal('show');
+    }
 });
 

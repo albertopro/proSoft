@@ -42,10 +42,44 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+</div>
+<!-- Fin del modal para el contacto -->
+<!-- Modal para la seccion de you tube -->
+<div class="modal fade" id="modalYouTube" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-center">
+                <div class="container-fluid">
+                    <div class="row-fluid">
+                        <div class="col-xs-12">
+                            <h4 class="modal-title">Puedes pasar por nuestro canal de youTube, en donde encontraras cursos, soluciones para 
+                            algun problema en cuestiones de tecnologia, y otros videos.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 offset-md-4 col-md-4 offset-lg-4 col-lg-4 text-center">
+                            <div class="card-body contactos">
+                                <img src="<?= base_url('assets/img/youtube.png')?>" alt="" class="img-fluid">
+                                <a href="https://www.youtube.com/channel/UCEayoSiFURAV3uvwgs5zYhw"><h4 class="text-muted textoContactos" style="margin-top:1rem;">proSoft</h4></a>
+                            </div>  
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </div>
     </div>
 </div>
+<!-- Fin del modal de ypu tube -->
 <footer>
     <div class="container-fluid">
         <div class="row-fluid">
