@@ -29,7 +29,7 @@
                             <div class="card-body contactos">
                                 <img src="<?= base_url('assets/img/whatsapp.png'); ?>" alt="" class="img-fluid imagenServicios"><br>
                                 <small class="text-muted">WhatsApp</small><br>
-                                <a href="https://api.whatsapp.com/send?phone=5614860827"><small class="text-muted textoContactos">Escribennos</small></a>                          
+                                <a href="https://api.whatsapp.com/send?phone=5614860827"><small class="text-muted textoContactos">Escribenos</small></a>                          
                             </div>            
                         </div>
                         <div class="col-md-4 ">
@@ -85,9 +85,9 @@
         <div class="row-fluid">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 cantactos text-center">
                 <h4 class="titulo">Contactanos</h4>
-                <img src="<?= base_url('assets/img/facebook.png');?>" alt="Facebook" class="imgIconosUno">
-                <img src="<?= base_url('assets/img/twitter.png');?>" alt="Twitter" class="imgIconos">
-                <img src="<?= base_url('assets/img/youtube1.png');?>" alt="YouTube" class="imgIconos">
+                    <a href="https://www.facebook.com/amvprosoft"><img src="<?= base_url('assets/img/facebook.png');?>" alt="Facebook" class="imgIconosUno"></a>
+                    <a href="https://twitter.com/albertomenpro"><img src="<?= base_url('assets/img/twitter.png');?>" alt="Twitter" class="imgIconos"></a>
+                    <a href="https://www.youtube.com/channel/UCEayoSiFURAV3uvwgs5zYhw"><img src="<?= base_url('assets/img/youtube1.png');?>" alt="YouTube" class="imgIconos"></a>
             </div>
         </div>
     </div>

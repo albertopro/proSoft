@@ -3,7 +3,7 @@
  */
 $(document).ready(function() {
     $('.servicios').click(function(){
-        $('.temarioCursos').toggle('slow');
+        $('.temarioCursos').fadeToggle('slow');
     });
 
     $('#contacto').click(function(){
